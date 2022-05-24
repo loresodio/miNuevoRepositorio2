@@ -62,6 +62,7 @@ public class Fraccion {
     {
 
             System.out.println("Respuesta de Syso");
+            System.out.println("¿Vienes de Iberia?¿Ahi no tienes un gimnasio de tipo volador con Carrero Blanco?");
       
     }
 }
