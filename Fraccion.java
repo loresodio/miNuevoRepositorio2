@@ -62,6 +62,7 @@ public class Fraccion {
     {
         if(this.denominador!=0) {
             return (float) this.numerador / (float) this.denominador;
+            System.out.println("Respuesta de Syso")
         }
         return 999999;
     }
