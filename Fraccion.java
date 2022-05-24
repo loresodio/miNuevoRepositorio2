@@ -58,12 +58,10 @@ public class Fraccion {
         this.denominador*=otra.numerador;
     }
 
-    public float devuelveResultado()
+    public static void main(String[] args)
     {
-        if(this.denominador!=0) {
-            return (float) this.numerador / (float) this.denominador;
-            System.out.println("Respuesta de Syso")
-        }
-        return 999999;
+
+            System.out.println("Respuesta de Syso");
+      
     }
 }
